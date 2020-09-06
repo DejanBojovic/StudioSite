@@ -220,6 +220,10 @@ p {
 
 /* Contact Form */
 
+#contact-form {
+  background-color: #ffc012; 
+}
+
 #contact-form .form-group {
   margin-bottom: 20px;
 }
